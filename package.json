@@ -12,12 +12,16 @@
     "url": "git+https://github.com/mykhailohurak/project-filmoteka.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": " ",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mykhailohurak/project-filmoteka/issues"
   },
   "dependencies": {
+    "basiclightbox": "^5.0.4",
+    "firebase": "^9.8.3",
+    "handlebars": "^4.7.7",
+    "lodash.debounce": "^4.0.8",
     "modern-normalize": "^1.1.0"
   },
   "devDependencies": {
